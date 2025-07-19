@@ -1,5 +1,5 @@
-# Outamation-Extern
-Outamation AI-Powered Workflow Automation Externship
+# Outamation AI-Powered Workflow Automation Externship - [Extern](https://www.extern.com/student)
+Think AI is all about chatbots and image generators? Think again. In this externship, you’ll explore how AI is transforming massive, messy document workflows into smart, searchable data. From building Python scripts to testing open-source models, you’ll turn unstructured files into usable insights.
 
 ## Project 1: How AI Reads and Understands Mortgage Documents
 Before AI can process documents, it must first understand them. In this project, you’ll explore Machine Learning, Deep Learning, LLMs, and NLP to see how AI reads and processes text. You’ll also dive into Computer Vision and OCR, learning how AI extracts information from scanned documents. Since this externship focuses on mortgage automation, you’ll study the mortgage industry, its challenges, and why accurate document handling is essential. Finally, you’ll work with a real mortgage "blob" file, analyzing how AI models handle structured and unstructured data. By the end, you’ll have a strong AI foundation and a clear understanding of how AI improves document processing in the mortgage industry.
