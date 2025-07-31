@@ -32,4 +32,12 @@ Before AI can make sense of documents, it needs clean, structured data. In this 
 #### Step 1: Extract Text from Multi-Page PDFs Using Python
 Learn how to turn messy and unorganized mortgage documents into clean, usable data using Python. 
 
+#### Step 2: Identify Fields Using Regex and Anchor Phrases
+Learn how to use regex patterns, anchor phrases, bounding boxes, and advanced PyMuPDF functions to extract meaningful data from complex layouts. You’ll also learn how to work with tabular structures using PyMuPDF’s table detection methods. 
+
+[Task: Extract Key Fields from the Loan Worksheet](https://github.com/sarahlorenzen/Outamation-Extern/blob/main/3_2_PyMuPDF_Regex.ipynb)
+
+## Project 4: Advanced OCR Comparison and Layout-Aware Extraction
+OCR (Optical Character Recognition) is at the heart of document intelligence. In this project, you’ll get hands-on with three OCR engines— Tesseract, PaddleOCR, and EasyOCR —to see how they perform on complex mortgage documents. You’ll start by learning how to clean and extract text from scanned PDFs using Tesseract. Then, you’ll explore layout-aware tools that better preserve formatting and structure. Finally, you’ll run comparisons and recommend the most effective tool for real-world automation. By the end, you’ll be able to confidently select and justify OCR tools based on both technical and business needs.
+
 
